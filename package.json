@@ -5,7 +5,6 @@
   "description": "A small ReactJS project with some of the basic concepts of the library",
   "author": "Gustavo Gualbano",
   "license": "MIT",
-  "homepage": "https://github.com/gsgualbano/reactjs-concepts#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gsgualbano/reactjs-concepts"
