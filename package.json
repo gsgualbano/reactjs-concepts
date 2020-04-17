@@ -1,7 +1,18 @@
 {
-  "name": "frontend",
+  "name": "reactjs-concepts",
   "version": "0.1.0",
   "private": true,
+  "description": "A small ReactJS project with some of the basic concepts of the library",
+  "author": "Gustavo Gualbano",
+  "license": "MIT",
+  "homepage": "https://github.com/gsgualbano/reactjs-concepts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsgualbano/reactjs-concepts"
+  },
+  "bugs": {
+    "url": "https://github.com/gsgualbano/reactjs-concepts/issues"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "axios-mock-adapter": "^1.18.1",
